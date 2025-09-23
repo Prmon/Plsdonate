@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\DUCk\DUCk\bin\Debug\DUCk.exe.config
+C:\Users\Administrator\source\repos\DUCk\DUCk\bin\Debug\DUCk.exe
+C:\Users\Administrator\source\repos\DUCk\DUCk\bin\Debug\DUCk.pdb
+C:\Users\Administrator\source\repos\DUCk\DUCk\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.csproj.Up2Date
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.exe
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.pdb
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.Form1.resources
+C:\Users\Administrator\source\repos\DUCk\DUCk\bin\Debug\DUCk.exe.manifest
+C:\Users\Administrator\source\repos\DUCk\DUCk\bin\Debug\DUCk.application
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.exe.manifest
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.application
+C:\Users\Administrator\source\repos\DUCk\DUCk\obj\Debug\DUCk.exe.config
